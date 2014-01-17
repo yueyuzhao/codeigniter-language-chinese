@@ -26,4 +26,4 @@ $lang['db_unable_to_set_charset'] = '无法设定客户端连接字符集: %s';
 $lang['db_error_heading'] = '数据库出错了。';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/english/db_lang.php */
+/* Location: ./application/language/chinese/db_lang.php */

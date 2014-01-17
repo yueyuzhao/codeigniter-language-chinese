@@ -26,4 +26,4 @@ $lang['greater_than']		= "%s必须大于%s。";
 
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/english/form_validation_lang.php */
+/* Location: ./application/language/chinese/form_validation_lang.php */

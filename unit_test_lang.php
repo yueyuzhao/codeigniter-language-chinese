@@ -22,4 +22,4 @@ $lang['ut_notes']			= '记录';
 
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/english/unit_test_lang.php */
+/* Location: ./application/language/chinese/unit_test_lang.php */

@@ -58,4 +58,4 @@ $lang['UP14']	= '(UTC +14:00) 莱恩群岛';
 
 
 /* End of file date_lang.php */
-/* Location: ./system/language/english/date_lang.php */
+/* Location: ./application/language/chinese/date_lang.php */
